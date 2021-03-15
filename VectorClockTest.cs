@@ -1,6 +1,5 @@
-﻿namespace LUC.Utils.Tests
+﻿namespace LUC.VectorClock
 {
-    using LUC.VectorClock;
     using NUnit.Framework;
 
     [TestFixture]
